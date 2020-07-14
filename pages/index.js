@@ -8,6 +8,7 @@ function HomePage() {
             <title>Ana Sayfa</title>
         </Head>
         <h1>Ana Sayfa</h1>
+        <h2>Hoş geldiniz!</h2>
         
     </Layout>
   }
